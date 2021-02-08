@@ -19,7 +19,7 @@ Moroccan CTF Players: https://discord.gg/pjHcGqaNEm
 - [m3dsec](https://twitter.com/m3dsec) M3dSec
 - [Fahd Abida](https://www.facebook.com/z3rod4y) Edd13M0ra
 - [Amine Oukhrid](https://www.facebook.com/amine.oukhrid.7) TENSHO
-- [SplinterSec](https://twitter.com/splint3rsec) Splint3rsec
+- [Khalil Abdellah](https://twitter.com/splint3rsec) Splint3rsec
 - [Nizar Amri](https://www.facebook.com/nizar.amri.733) b4d-53ct0r 
 - [Abdelhamid Naceri](https://twitter.com/KLINIX5) KLINIX5
 - [Taha El Ghadraoui](https://twitter.com/bvr0n___) bvr0n
@@ -32,3 +32,4 @@ Moroccan CTF Players: https://discord.gg/pjHcGqaNEm
 - [0xtz](https://twitter.com/0xtz_52) 0xtz
 - [Ismail El Mekhfi](https://twitter.com/Kei0x) Kei0x
 - [Omar Aouaj](https://www.facebook.com/omar.aouaj.77) da3ss
+- [Oussama Rahali](https://www.facebook.com/oussama.rahali.925) V0lck3r 
