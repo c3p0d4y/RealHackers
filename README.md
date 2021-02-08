@@ -70,3 +70,4 @@ Li kaynin fe had list, li fahmo exactly what is hacking ;v
 - [PPP](https://twitter.com/pwnunit) pwnunit
 - [Alaa Zorkane](https://twitter.com/AlaaZorkane) droven0101
 - [Aymane Biri](https://github.com/KernelOverseer) KernelOverseer
+- [Rima Luna](https://www.facebook.com/rima.lune.754) RimaL
