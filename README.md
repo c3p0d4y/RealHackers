@@ -2,7 +2,9 @@
 List of real Moroccan Hackers, no bullshit. (there are no ranking)
 
 Crisis:  https://discord.gg/vja5zQzJ
+
 Moroccan Bug Bounty Hunters: https://discord.gg/HUHvq6P5kP
+
 Moroccan CTF Players: https://discord.gg/pjHcGqaNEm
 
 ## List:
