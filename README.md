@@ -33,6 +33,7 @@ La bghitini n7ayedek men list ola nzidek: dm me ;v
 - [El Habtie Soufiane](https://twitter.com/soufianelhabti) mainteemoforfun 
 - [Ayoub Elaich](https://twitter.com/OriginalSicksec) Sicks3c 
 - [0xtz](https://twitter.com/0xtz_52) 0xtz
+- [Ali Chaayb](https://www.facebook.com/PseudoROX) PseudoROX
 - [Ismail El Mekhfi](https://twitter.com/Kei0x) Kei0x
 - [Omar Aouaj](https://www.facebook.com/omar.aouaj.77) da3ss
 - [Oussama Rahali](https://www.facebook.com/oussama.rahali.925) V0lck3r 
