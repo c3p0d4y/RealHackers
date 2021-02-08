@@ -1,17 +1,7 @@
-# RealHackers
-List of real Moroccan Hackers, no bullshit. (there are no ranking)
-
-Crisis:  https://discord.gg/vja5zQzJ
-
-Moroccan Bug Bounty Hunters: https://discord.gg/HUHvq6P5kP
-
-Moroccan CTF Players: https://discord.gg/pjHcGqaNEm
-
-Bug-Hub V1.0: https://discord.gg/VMQppH7RdM
-
-La bghitini n7ayedek men list ola nzidek: dm me ;v
-
-Li kaynin fe had list, li fahmo exactly what is hacking ;v
+# Awsome Moroccan Hackers 
+An Awsome List of Moroccan CyberSecurity Reasearchers and Hackers,Bug Hunters 
+(Not Rank Based)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## List:
 
