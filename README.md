@@ -35,3 +35,4 @@ La bghitini n7ayedek men list ola nzidek: dm me ;v
 - [Ismail El Mekhfi](https://twitter.com/Kei0x) Kei0x
 - [Omar Aouaj](https://www.facebook.com/omar.aouaj.77) da3ss
 - [Oussama Rahali](https://www.facebook.com/oussama.rahali.925) V0lck3r 
+- [uncle Jeff](https://github.com/0x00Jeff) 0x00Jeff
