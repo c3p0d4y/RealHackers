@@ -81,7 +81,6 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 - [Khater Ayoub](https://www.facebook.com/ayoubackup) ayoubackup
 - [jlbana](https://github.com/jlbana/) jlbana
 - [PPP](https://twitter.com/pwnunit) pwnunit
-- [Alaa Zorkane](https://twitter.com/AlaaZorkane) droven0101
 - [Aymane Biri](https://github.com/KernelOverseer) KernelOverseer
 - [Rima Luna](https://www.facebook.com/rima.lune.754) RimaL
 - [Satanstone](https://github.com/Satanstone) Satan
