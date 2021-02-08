@@ -43,3 +43,4 @@ La bghitini n7ayedek men list ola nzidek: dm me ;v
 - [Momo Outaadi](https://github.com/m4ll0k) m4ll0k
 - [Amineetabdenour](https://github.com/amine123ait) Mr.Echo
 - [Mohamed Lourch](https://twitter.com/MohamedLourch) igreg
+- [DevAbdellatif](https://twitter.com/DevAbdellatif) flagmate
