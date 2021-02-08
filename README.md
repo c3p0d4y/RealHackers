@@ -16,6 +16,7 @@ La bghitini n7ayedek men list ola nzidek: dm me ;v
 - [Mhamed Kchikech](https://twitter.com/mhamed_kchikech) kxikx
 - [Jalil](https://www.twitch.tv/g4lilio) 0Pwny
 - [Aymen EL Haski](https://twitter.com/RyouShin7) Jakom
+- [Darthvader](https://twitter.com/darthvader_1337) Darthvader
 - [0UR4N05](https://twitter.com/0_n05) devalfo
 - [Ybenel](https://twitter.com/_ybenel) Ybenel
 - [m3dsec](https://twitter.com/m3dsec) M3dSec
