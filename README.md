@@ -41,5 +41,5 @@ La bghitini n7ayedek men list ola nzidek: dm me ;v
 - [Maher](https://twitter.com/azz_maher) Maher
 - [Abdél Hafid Ait Chikh](https://twitter.com/hafidaitchikh) abdelhafid
 - [Momo Outaadi](https://github.com/m4ll0k) m4ll0k
-- [Amineetabdenour](https://tryhackme.com/p/Amineetabdenour) Mr.Echo
+- [Amineetabdenour](https://github.com/amine123ait) Mr.Echo
 - [Mohamed Lourch](https://twitter.com/MohamedLourch) igreg
