@@ -93,3 +93,4 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 - [Satanstone](https://github.com/Satanstone) Satan
 - [Mohssin Kassih](https://twitter.com/KassihMouhssine) dxtr0x01
 - [Yasser Tahiri](https://github.com/yezz123) yezz123
+- [Elmehdi](https://twitter.com/elmahdibenrs) Chrollo
