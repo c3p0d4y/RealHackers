@@ -21,3 +21,4 @@ List of real Moroccan Hackers, away from bullshit. (there are no best hacker amo
 - [Collin Belmo](https://twitter.com/belmo01) belmo01
 - [Mahdi ELMrhassel](https://twitter.com/ElMrhassel) ElMrhassel
 - [Y0ung](https://twitter.com/Y0ung_MA) _Y0ung
+- [El Habtie Soufiane](https://twitter.com/soufianelhabti) mainteemoforfun 
