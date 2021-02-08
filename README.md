@@ -9,6 +9,8 @@ Moroccan CTF Players: https://discord.gg/pjHcGqaNEm
 
 La bghitini n7ayedek men list ola nzidek: dm me ;v
 
+Li kaynin fe had list, li fahmo exactly what is hacking ;v
+
 ## List:
 
 - [Adnane Z Tebbaa](https://twitter.com/TebbaaX) TebbaaX
