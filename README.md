@@ -86,6 +86,7 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 - [Mohamed Hadi](https://www.facebook.com/mohamed.hadi.965580) Mohamed Hadi
 - [Taha Jamal](https://www.facebook.com/tahalekos) tahalekos
 - [Khater Ayoub](https://www.facebook.com/ayoubackup) ayoubackup
+- [Mr.QPR](https://twitter.com/qpr_mr) qpr_mr
 - [jlbana](https://github.com/jlbana/) jlbana
 - [PPP](https://twitter.com/pwnunit) pwnunit
 - [Aymane Biri](https://github.com/KernelOverseer) KernelOverseer
