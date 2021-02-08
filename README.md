@@ -6,14 +6,15 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 [![Github All Releases](https://img.shields.io/badge/status-active-brightgreen)]()
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-## Moroccan Hackers Discord Communities : ( Crisis , Moroccan Bug Hunters , Bug Hub , Moroccan CTF players) 
+## Moroccan Hackers Discord Communities : 
+( Crisis , Moroccan Bug Hunters , Bug Hub , Moroccan CTF players) 
 
 [![Discord](https://img.shields.io/badge/chat-up!-brightgreen?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vja5zQzJ)
-[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/HUHvq6P5kP)
-[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/VMQppH7RdM)
-[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pjHcGqaNEm)
+[![Discord](https://img.shields.io/badge/chat-up!-brightgreen?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/HUHvq6P5kP)
+[![Discord](https://img.shields.io/badge/chat-up!-brightgreen?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/VMQppH7RdM)
+[![Discord](https://img.shields.io/badge/chat-up!-brightgreen?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pjHcGqaNEm)
 
-## Top Moroccan Cyber Security News Facebook pages : 
+## Top Moroccan Cyber Security Facebook pages : 
 
 - [Crisis](https://www.facebook.com/Crisi5) :  Community,CTFs,News,Lives,Talks...
 - [Moroccan Hackers](https://www.facebook.com/Moroccan.Hack3rs) :  News,Community...
