@@ -14,3 +14,4 @@ List of real Moroccan Hackers, away from bullshit. (there are no best hacker amo
 - [Fahd Abida](https://www.facebook.com/z3rod4y) Edd13M0ra
 - [Amine Oukhrid](https://www.facebook.com/amine.oukhrid.7) TENSHO
 - [SplinterSec](https://twitter.com/splint3rsec) Splint3rsec
+- [Nizar Amri](https://www.facebook.com/nizar.amri.733) b4d-53ct0r 
