@@ -25,7 +25,7 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 - [Adnane Z Tebbaa](https://twitter.com/TebbaaX) TebbaaX
 - [Mhamed Kchikech](https://twitter.com/mhamed_kchikech) kxikx
 - [Jalil Nouiri](https://www.facebook.com/abdljalil.nouiri) 0Pwny
-- [Amine Cherrai](https://twitter.com/AmineCherrai) Amine Cherrai
+- [Fahd Abida](https://www.facebook.com/z3rod4y) Edd13M0ra
 - [Aymen EL Haski](https://twitter.com/RyouShin7) Jakom
 - [Amine Essiraj](https://twitter.com/EssirajAmine) Amine Essiraj 
 - [Darthvader](https://twitter.com/darthvader_1337) Darthvader
@@ -33,7 +33,7 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 - [Ybenel](https://twitter.com/_ybenel) Ybenel
 - [m3dsec](https://twitter.com/m3dsec) M3dSec
 - [Amine Aboud](https://twitter.com/EssirajAmine) Amine Aboud
-- [Fahd Abida](https://www.facebook.com/z3rod4y) Edd13M0ra
+- [Amine Cherrai](https://twitter.com/AmineCherrai) Amine Cherrai
 - [Amine Oukhrid](https://www.facebook.com/amine.oukhrid.7) TENSHO
 - [Khalil Abdellah](https://twitter.com/splint3rsec) Splint3rsec
 - [Nizar Amri](https://www.facebook.com/nizar.amri.733) b4d-53ct0r 
