@@ -16,7 +16,7 @@ Li kaynin fe had list, li fahmo exactly what is hacking ;v
 - [Adnane Z Tebbaa](https://twitter.com/TebbaaX) TebbaaX
 - [Souhail Mssassi](https://www.facebook.com/Mssassii) Mssassii
 - [Mhamed Kchikech](https://twitter.com/mhamed_kchikech) kxikx
-- [Jalil Nouiri](https://www.twitch.tv/g4lilio) 0Pwny
+- [Jalil Nouiri](https://www.facebook.com/abdljalil.nouiri) 0Pwny
 - [Aymen EL Haski](https://twitter.com/RyouShin7) Jakom
 - [Darthvader](https://twitter.com/darthvader_1337) Darthvader
 - [0UR4N05](https://twitter.com/0_n05) devalfo
