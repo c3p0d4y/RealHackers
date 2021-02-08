@@ -85,3 +85,4 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 - [Rima Luna](https://www.facebook.com/rima.lune.754) RimaL
 - [Satanstone](https://github.com/Satanstone) Satan
 - [Mohssin Kassih](https://twitter.com/KassihMouhssine) dxtr0x01
+- [Yasser Tahiri](https://github.com/yezz123) yezz123
