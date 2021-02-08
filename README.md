@@ -59,3 +59,6 @@ Li kaynin fe had list, li fahmo exactly what is hacking ;v
 - [Adil Aheyad](https://www.facebook.com/adil.aheyad) Adil Aheyad
 - [Yassine Aboukir](https://twitter.com/Yassineaboukir) yassineaboukir
 - [Yassine Majidi](https://www.facebook.com/fatalW01) fatalW01
+- [Nada Bouaadi](https://www.facebook.com/nadabouaadi) nadabouaadi
+- [Chaymae El Jouhari](https://www.facebook.com/profile.php?id=100007164287318) Chaymae El Jouhari
+- [Touhami Kasbaoui](https://www.facebook.com/remalwares) remalwares
