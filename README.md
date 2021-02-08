@@ -66,3 +66,4 @@ Li kaynin fe had list, li fahmo exactly what is hacking ;v
 - [Mohamed Hadi](https://www.facebook.com/mohamed.hadi.965580) Mohamed Hadi
 - [Taha Jamal](https://www.facebook.com/tahalekos) tahalekos
 - [Khater Ayoub](https://www.facebook.com/ayoubackup) ayoubackup
+- [jlbana](https://github.com/jlbana/) jlbana
