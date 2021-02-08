@@ -38,3 +38,4 @@ La bghitini n7ayedek men list ola nzidek: dm me ;v
 - [uncle Jeff](https://github.com/0x00Jeff) 0x00Jeff
 - [C3P0](https://twitter.com/c3p01337) c3p01337
 - [Maher](https://twitter.com/azz_maher) Maher
+- [Abdél Hafid Ait Chikh](https://twitter.com/hafidaitchikh) abdelhafid
