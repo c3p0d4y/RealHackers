@@ -38,7 +38,7 @@ Li kaynin fe had list, li fahmo exactly what is hacking ;v
 - [Ali Chaayb](https://www.facebook.com/PseudoROX) PseudoROX
 - [Ismail El Mekhfi](https://twitter.com/Kei0x) Kei0x
 - [Omar Aouaj](https://www.facebook.com/omar.aouaj.77) da3ss
-- [Oussama Rahali](https://www.facebook.com/oussama.rahali.925) V0lck3r 
+- [Oussama Rahali](https://twitter.com/ourahali) V0lck3r 
 - [uncle Jeff](https://github.com/0x00Jeff) 0x00Jeff
 - [C3P0](https://twitter.com/c3p01337) c3p01337
 - [Maher](https://twitter.com/azz_maher) Maher
