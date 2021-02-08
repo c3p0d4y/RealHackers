@@ -24,7 +24,7 @@ Moroccan CTF Players: https://discord.gg/pjHcGqaNEm
 - [Abdelhamid Naceri](https://twitter.com/KLINIX5) KLINIX5
 - [Taha El Ghadraoui](https://twitter.com/bvr0n___) bvr0n
 - [Mehdi Oumedlouz](https://www.facebook.com/mehdi.oumedlouz) ataysec
-- [Collin Belmo](https://twitter.com/belmo01) belmo01
+- [Collin Belmo](https://twitter.com/belmo01) B1M0110
 - [Mahdi ELMrhassel](https://twitter.com/ElMrhassel) ElMrhassel
 - [Y0ung](https://twitter.com/Y0ung_MA) _Y0ung
 - [El Habtie Soufiane](https://twitter.com/soufianelhabti) mainteemoforfun 
