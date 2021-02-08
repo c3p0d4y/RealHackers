@@ -10,5 +10,6 @@ List of real Moroccan Hackers, away from bullshit. (there are no best hacker amo
 - [Aymen EL Haski](https://twitter.com/RyouShin7) Jakom
 - [0UR4N05](https://twitter.com/0_n05) devalfo
 - [Ybenel](https://twitter.com/_ybenel) Ybenel
+- [m3dsec](https://twitter.com/m3dsec) M3dSec
 - [Fahd Abida](https://www.facebook.com/z3rod4y) Edd13M0ra
 - [Amine Oukhrid](https://www.facebook.com/amine.oukhrid.7) TENSHO
