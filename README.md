@@ -18,3 +18,4 @@ List of real Moroccan Hackers, away from bullshit. (there are no best hacker amo
 - [Abdelhamid Naceri](https://twitter.com/KLINIX5) KLINIX5
 - [Taha El Ghadraoui](https://twitter.com/bvr0n___) bvr0n
 - [Mehdi Oumedlouz](https://www.facebook.com/mehdi.oumedlouz) ataysec
+- [Collin Belmo](https://twitter.com/belmo01) belmo01
