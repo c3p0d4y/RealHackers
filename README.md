@@ -1,20 +1,38 @@
-# Awsome Moroccan Hackers 
-An Awsome List of Moroccan CyberSecurity Reasearchers and Hackers,Bug Hunters 
+# Awsome Moroccan Hackers : 
+Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters 
 (Not Rank Based)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Github All Releases](https://img.shields.io/badge/status-active-brightgreen)]()
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-## List:
+## Moroccan Hackers Discord Communities : ( Crisis , Moroccan Bug Hunters , Bug Hub , Moroccan CTF players) 
 
-- [Adnane Z Tebbaa](https://twitter.com/TebbaaX) TebbaaX
+[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vja5zQzJ)
+[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/HUHvq6P5kP)
+[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/VMQppH7RdM)
+[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pjHcGqaNEm)
+
+## Top Moroccan Cyber Security News Facebook pages : 
+
+- [Crisis](https://www.facebook.com/Crisi5) :  Community,CTFs,News,Lives,Talks...
+- [Moroccan Hackers](https://www.facebook.com/Moroccan.Hack3rs) :  News,Community...
+- [Moroccan Hackers](https://www.facebook.com/MadrasaTech) :  News,Community...
+
+## List :
+
 - [Souhail Mssassi](https://www.facebook.com/Mssassii) Mssassii
+- [Adnane Z Tebbaa](https://twitter.com/TebbaaX) TebbaaX
 - [Mhamed Kchikech](https://twitter.com/mhamed_kchikech) kxikx
 - [Jalil Nouiri](https://www.facebook.com/abdljalil.nouiri) 0Pwny
+- [Amine Cherrai](https://twitter.com/AmineCherrai) Amine Cherrai
 - [Aymen EL Haski](https://twitter.com/RyouShin7) Jakom
+- [Amine Essiraj](https://twitter.com/EssirajAmine) Amine Essiraj 
 - [Darthvader](https://twitter.com/darthvader_1337) Darthvader
 - [0UR4N05](https://twitter.com/0_n05) devalfo
 - [Ybenel](https://twitter.com/_ybenel) Ybenel
 - [m3dsec](https://twitter.com/m3dsec) M3dSec
+- [Amine Aboud](https://twitter.com/EssirajAmine) Amine Aboud
 - [Fahd Abida](https://www.facebook.com/z3rod4y) Edd13M0ra
 - [Amine Oukhrid](https://www.facebook.com/amine.oukhrid.7) TENSHO
 - [Khalil Abdellah](https://twitter.com/splint3rsec) Splint3rsec
