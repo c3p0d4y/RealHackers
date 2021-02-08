@@ -23,3 +23,4 @@ List of real Moroccan Hackers, no bullshit. (there are no ranking)
 - [Y0ung](https://twitter.com/Y0ung_MA) _Y0ung
 - [El Habtie Soufiane](https://twitter.com/soufianelhabti) mainteemoforfun 
 - [Ayoub Elaich](https://twitter.com/OriginalSicksec) Sicks3c 
+- [0xtz](https://twitter.com/0xtz_52) 0xtz
