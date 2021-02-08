@@ -23,7 +23,7 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 - [Moroccan Hackers](https://www.facebook.com/Moroccan.Hack3rs) :  News,Community...
 - [Moroccan Hackers](https://www.facebook.com/MadrasaTech) :  News,Community...
 
-## Twitch Live Streamers:
+## Twitch Streamers:
 
 - https://www.twitch.tv/g4lilio
 - https://www.twitch.tv/edd13_mora
