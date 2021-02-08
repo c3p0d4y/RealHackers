@@ -6,3 +6,5 @@ List of real Moroccan Hackers, away from bullshit. (there are no best hacker amo
 - [Adnane Z Tebbaa](https://twitter.com/TebbaaX) TebbaaX
 - [Souhail Mssassi](https://www.facebook.com/Mssassii) Mssassii
 - [Mhamed Kchikech](https://twitter.com/mhamed_kchikech) kxikx
+- [Jalil](https://www.twitch.tv/g4lilio) 0Pwny
+- [Aymen EL Haski](https://twitter.com/RyouShin7) Jakom
