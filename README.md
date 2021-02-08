@@ -33,6 +33,7 @@ Li kaynin fe had list, li fahmo exactly what is hacking ;v
 - [Mahdi ELMrhassel](https://twitter.com/ElMrhassel) ElMrhassel
 - [Y0ung](https://twitter.com/Y0ung_MA) _Y0ung
 - [El Habtie Soufiane](https://twitter.com/soufianelhabti) mainteemoforfun
+- [Simo Bal-ghaoui](https://www.facebook.com/simo.balghaoui) s1m0x
 - [Ayoub](https://twitter.com/Yukusawa18) Yukusawa18
 - [Ayoub Elaich](https://twitter.com/OriginalSicksec) Sicks3c 
 - [0xtz](https://twitter.com/0xtz_52) 0xtz
