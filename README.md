@@ -62,7 +62,7 @@ If you want to add your name, contact us.
 - [Ayoub Elaich](https://twitter.com/OriginalSicksec) Sicks3c 
 - [0xtz](https://twitter.com/0xtz_52) 0xtz
 - [Mohamed Zayd](https://twitter.com/qpr_mr) Mr.QPR
-- [Ali Chaayb](https://www.facebook.com/PseudoROX) PseudoROX
+- [Ali Chaayb](https://www.facebook.com/PseudoROX) okay
 - [Ismail El Mekhfi](https://twitter.com/Kei0x) Kei0x
 - [Omar Aouaj](https://www.facebook.com/omar.aouaj.77) da3ss
 - [Oussama Rahali](https://twitter.com/ourahali) V0lck3r 
