@@ -61,6 +61,7 @@ If you want to add your name, contact us.
 - [Ayoub](https://twitter.com/Yukusawa18) Yukusawa18
 - [Ayoub Elaich](https://twitter.com/OriginalSicksec) Sicks3c 
 - [0xtz](https://twitter.com/0xtz_52) 0xtz
+- [Mohamed Zayd](https://twitter.com/qpr_mr) Mr.QPR
 - [Ali Chaayb](https://www.facebook.com/PseudoROX) PseudoROX
 - [Ismail El Mekhfi](https://twitter.com/Kei0x) Kei0x
 - [Omar Aouaj](https://www.facebook.com/omar.aouaj.77) da3ss
