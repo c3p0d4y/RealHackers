@@ -5,6 +5,8 @@
 Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters 
 (Not Rank Based)
 
+If you want to add your name, contact me.
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Github All Releases](https://img.shields.io/badge/status-active-brightgreen)]()
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
