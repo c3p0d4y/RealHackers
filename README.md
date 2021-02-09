@@ -96,4 +96,4 @@ If you want to add your name, contact us.
 - [Mohssin Kassih](https://twitter.com/KassihMouhssine) dxtr0x01
 - [Yasser Tahiri](https://github.com/yezz123) yezz123
 - [Elmehdi](https://twitter.com/elmahdibenrs) Chrollo
-- [Ayman Mar](https://satanstone.medium.com/) Satanstone
+- [Satan Stone](https://twitter.com/satan_stone) Satanstone
