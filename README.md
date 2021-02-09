@@ -41,6 +41,8 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 - [Fahd Abida](https://www.facebook.com/z3rod4y) Edd13M0ra
 - [Aymen EL Haski](https://twitter.com/RyouShin7) Jakom
 - [Amine Essiraj](https://twitter.com/EssirajAmine) Amine Essiraj 
+- [Ahmed Lekssays](https://twitter.com/lekssays) lekssays
+- [Abdelkader Boudih](https://twitter.com/seurOSS) seurOSS
 - [Darthvader](https://twitter.com/darthvader_1337) Darthvader
 - [0UR4N05](https://twitter.com/0_n05) devalfo
 - [Ybenel](https://twitter.com/_ybenel) Ybenel
