@@ -86,6 +86,7 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 - [Yassine Aboukir](https://twitter.com/Yassineaboukir) yassineaboukir
 - [Yassine Majidi](https://www.facebook.com/fatalW01) fatalW01
 - [Nada Bouaadi](https://www.facebook.com/nadabouaadi) nadabouaadi
+- [Alaa Zorkane](https://twitter.com/AlaaZorkane) AlaaZorkane
 - [Chaymae El Jouhari](https://www.facebook.com/profile.php?id=100007164287318) Chaymae El Jouhari
 - [Touhami Kasbaoui](https://www.facebook.com/remalwares) remalwares
 - [Ilham Ben-nar](https://www.facebook.com/ilham.ben.7528) ilham Ben-nar
