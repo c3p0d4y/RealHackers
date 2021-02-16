@@ -82,7 +82,7 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 - [Moh'ammad Mouchane](https://www.facebook.com/Mouchanee) Mouchanee
 - [Yassine Benfakih](https://twitter.com/yassinek3ch) yassinek3ch
 - [Ćhäŕáf Bļöôđ](https://www.facebook.com/bloodaq) Ćhäŕáf Bļöôđ
-- [Othmane Tamagart](https://www.facebook.com/0thm4n) 0thm4nhttps://www.facebook.com/bloodaq
+- [Othmane Tamagart](https://www.facebook.com/0thm4n) 0thm4n
 - [Khalil Daoulat](https://www.facebook.com/Daoulat.Khalil) Vvoox
 - [Adil Aheyad](https://www.facebook.com/adil.aheyad) Adil Aheyad
 - [Yassine Aboukir](https://twitter.com/Yassineaboukir) yassineaboukir
