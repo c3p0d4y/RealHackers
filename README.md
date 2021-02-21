@@ -71,7 +71,7 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 - [Omar Aouaj](https://www.facebook.com/omar.aouaj.77) da3ss
 - [Oussama Rahali](https://twitter.com/ourahali) V0lck3r 
 - [uncle Jeff](https://github.com/0x00Jeff) 0x00Jeff
-- [Erchiqui Azzeddine](https://www.linkedin.com/in/erchiquiazzeddine/) Erchiqui Azzeddine
+- [Erchiqui Azzeddine](https://www.linkedin.com/in/erchiquiazzeddine/) zertox1
 - [C3P0](https://twitter.com/c3p01337) c3p01337
 - [Maher](https://twitter.com/azz_maher) Maher
 - [Abdél Hafid Ait Chikh](https://twitter.com/hafidaitchikh) abdelhafid
