@@ -66,7 +66,6 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 - [0xtz](https://twitter.com/0xtz_52) 0xtz
 - [Mohamed Zayd](https://twitter.com/qpr_mr) Mr.QPR
 - [Ali Chaayb](https://www.facebook.com/PseudoROX) okay
-- [Ismail El Mekhfi](https://twitter.com/Kei0x) Kei0x
 - [Omar Aouaj](https://www.facebook.com/omar.aouaj.77) da3ss
 - [Oussama Rahali](https://twitter.com/ourahali) V0lck3r 
 - [uncle Jeff](https://github.com/0x00Jeff) 0x00Jeff
