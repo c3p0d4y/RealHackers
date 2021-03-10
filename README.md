@@ -57,7 +57,7 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 - [Taha El Ghadraoui](https://twitter.com/bvr0n___) bvr0n
 - [Ataysec](https://twitter.com/ataysec) ataysec
 - [Collin Belmo](https://twitter.com/belmo01) B1M0110
-- [Mahdi ELMrhassel](https://twitter.com/ElMrhassel) ElMrhassel
+- [Mahdi ELMrhassel](https://twitter.com/elmyuyu) ElMrhassel
 - [Y0ung](https://twitter.com/Y0ung_MA) _Y0ung
 - [El Habtie Soufiane](https://twitter.com/soufianelhabti) mainteemoforfun
 - [Simo Bal-ghaoui](https://www.facebook.com/simo.balghaoui) s1m0x
