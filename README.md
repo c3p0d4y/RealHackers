@@ -45,6 +45,7 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 - [Amine Essiraj](https://twitter.com/EssirajAmine) Amine Essiraj 
 - [Ahmed Lekssays](https://twitter.com/lekssays) lekssays
 - [Abdelkader Boudih](https://twitter.com/seurOSS) seurOSS
+- [Anass Sbai](https://twitter.com/Flashy911) Flashy911
 - [Nassim Bouali](https://hackerone.com/derision?type=user) Derision
 - [Darthvader](https://twitter.com/darthvader_1337) Darthvader
 - [0UR4N05](https://twitter.com/0_n05) devalfo
