@@ -99,7 +99,7 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 - [jlbana](https://github.com/jlbana/) jlbana
 - [PPP](https://twitter.com/pwnunit) pwnunit
 - [Aymane Biri](https://github.com/KernelOverseer) KernelOverseer
-- [Rima Luna](https://www.facebook.com/rima.lune.754) RimaL
+- [Rima Luna](https://github.com/RimLuna) RimLuna
 - [Mohssin Kassih](https://twitter.com/KassihMouhssine) dxtr0x01
 - [Yasser Tahiri](https://github.com/yezz123) yezz123
 - [Elmehdi](https://twitter.com/elmahdibenrs) Chrollo
