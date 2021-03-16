@@ -31,6 +31,7 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 - https://www.twitch.tv/edd13_mora
 - https://www.twitch.tv/jakomthehandler
 - https://www.twitch.tv/c3p0d4y
+- https://www.twitch.tv/kxikx365
 
 ## List :
 
