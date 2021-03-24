@@ -65,6 +65,7 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 - [El Habtie Soufiane](https://twitter.com/soufianelhabti) mainteemoforfun
 - [Simo Bal-ghaoui](https://www.facebook.com/simo.balghaoui) s1m0x
 - [Ayoub](https://twitter.com/Yukusawa18) Yukusawa18
+- [Ayoub Fathi](https://twitter.com/_ayoubfathi_) ayoubfathi
 - [Ayoub Elaich](https://twitter.com/OriginalSicksec) Sicks3c 
 - [0xtz](https://twitter.com/0xtz_52) 0xtz
 - [Mohamed Zayd](https://twitter.com/qpr_mr) Mr.QPR
