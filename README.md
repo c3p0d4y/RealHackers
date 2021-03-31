@@ -12,7 +12,7 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ## Moroccan Hackers Discord Communities : 
-( Crisis , Moroccan Bug Hunters , Bug Hub , Moroccan CTF players ) 
+( Crisis , Moroccan Bug Hunters , Bug Hub , Moroccan CTF players , IDEH, BnademOverflow) 
 
 [![Discord](https://img.shields.io/badge/status%20-%F0%9F%94%B4%20up!-brightgreen?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vja5zQzJ)
 [![Discord](https://img.shields.io/badge/status%20-%F0%9F%94%B4%20up!-brightgreen?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/HUHvq6P5kP)
