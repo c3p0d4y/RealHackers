@@ -19,6 +19,9 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 [![Discord](https://img.shields.io/badge/status%20-%F0%9F%94%B4%20up!-brightgreen?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/VMQppH7RdM)
 [![Discord](https://img.shields.io/badge/status%20-%F0%9F%94%B4%20up!-brightgreen?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/pjHcGqaNEm)
 [![Discord](https://img.shields.io/badge/status%20-%F0%9F%94%B4%20up!-brightgreen?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/UxC2JRejZ7)
+[![Discord](https://img.shields.io/badge/status%20-%F0%9F%94%B4%20up!-brightgreen?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vja5zQzJ)
+[![Discord](https://img.shields.io/badge/status%20-%F0%9F%94%B4%20up!-brightgreen?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/T8BS6Prv7v)
+
 
 ## Top Moroccan Cyber Security Facebook pages : 
 
