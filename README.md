@@ -42,8 +42,7 @@ Awsome List of Moroccan Cyber Security Reasearchers,Hackers,Bug Hunters
 
 - [Souhail Mssassi](https://www.facebook.com/Mssassii) Mssassii
 - [Adnane Z Tebbaa](https://twitter.com/TebbaaX) TebbaaX
-      | 
-      |----[TebbaaX](https://github.com/RyouYoo/AwesomeMoroccanHackers/blob/main/file/TebbaaX.md)
+  *[TebbaaX](https://github.com/RyouYoo/AwesomeMoroccanHackers/blob/main/file/TebbaaX.md)
       
 - [Mhamed Kchikech](https://twitter.com/mhamed_kchikech) kxikx
 - [Jalil Nouiri](https://www.facebook.com/abdljalil.nouiri) 0Pwny
