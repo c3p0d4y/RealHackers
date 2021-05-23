@@ -1,4 +1,4 @@
-# Awsome Moroccan Hackers : 
+# Awesome Moroccan Hackers : 
 
 ![Alt text](https://raw.githubusercontent.com/adnane-X-tebbaa/imgs/master/MH.png)
 
