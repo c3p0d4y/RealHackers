@@ -71,6 +71,7 @@ Awesome List of Moroccan Cyber Security Researchers, Hackers, Bug Hunters (Not R
 - [Simo Bal-ghaoui](https://www.facebook.com/simo.balghaoui) s1m0x
 - [Ayoub](https://twitter.com/Yukusawa18) Yukusawa18
 - [Ayoub Fathi](https://twitter.com/_ayoubfathi_) ayoubfathi
+- [Anas Hadane](https://twitter.com/ZeroMem0ry) ZeroM3m0ry
 - [Ayoub Elaich](https://twitter.com/OriginalSicksec) Sicks3c 
 - [0xtz](https://twitter.com/0xtz_52) 0xtz
 - [Mohamed Zayd](https://twitter.com/qpr_mr) Mr.QPR
