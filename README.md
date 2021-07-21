@@ -63,6 +63,7 @@ Awesome List of Moroccan Cyber Security Researchers, Hackers, Bug Hunters (Not R
 - [Nizar Amri](https://www.facebook.com/nizar.amri.733) b4d-53ct0r 
 - [Abdelhamid Naceri](https://twitter.com/KLINIX5) KLINIX5
 - [Taha El Ghadraoui](https://twitter.com/bvr0n___) bvr0n
+- [Ismail El Mekhfi](https://twitter.com/kei0x) kei0x
 - [Ataysec](https://twitter.com/ataysec) ataysec
 - [Collin Belmo](https://twitter.com/belmo01) B1M0110
 - [Mahdi ELMrhassel](https://twitter.com/elmyuyu) ElMrhassel
