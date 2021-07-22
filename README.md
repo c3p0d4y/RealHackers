@@ -46,7 +46,7 @@ Awesome List of Moroccan Cyber Security Researchers, Hackers, Bug Hunters (Not R
 - [Mhamed Kchikech](https://twitter.com/mhamed_kchikech) kxikx
 - [Jalil Nouiri](https://www.facebook.com/abdljalil.nouiri) 0Pwny
 - [Fahd Abida](https://www.facebook.com/z3rod4y) Edd13M0ra
-- [Aymen EL Haski](https://twitter.com/RyouShin7) Jakom
+- [Aymen EL Haski](https://www.linkedin.com/in/aymen-el-haski-5492a4208/) Jakom
 - [Amine Essiraj](https://twitter.com/EssirajAmine) Amine Essiraj 
 - [Ahmed Lekssays](https://twitter.com/lekssays) lekssays
 - [Abdelkader Boudih](https://twitter.com/seurOSS) seurOSS
