@@ -27,6 +27,7 @@ Awesome List of Moroccan Cyber Security Researchers, Hackers, Bug Hunters (Not R
 - https://abidafahd.medium.com/
 - https://sicks3c.medium.com
 - https://halove23.blogspot.com/
+- 
 
 ## Top Moroccan Cyber Security Facebook pages : 
 
@@ -49,7 +50,7 @@ Awesome List of Moroccan Cyber Security Researchers, Hackers, Bug Hunters (Not R
 - [Souhail Mssassi](https://www.facebook.com/Mssassii) Mssassii
 - [Adnane Z Tebbaa](https://twitter.com/TebbaaX) TebbaaX   
 - [Mhamed Kchikech](https://twitter.com/mhamed_kchikech) kxikx
-- [Jalil Nouiri](https://www.facebook.com/abdljalil.nouiri) 0Pwny
+- [Jalil Nouiri](https://www.linkedin.com/in/abdeljalil-nou1r1/) 0Pwny
 - [Fahd Abida](https://www.facebook.com/z3rod4y) Edd13M0ra
 - [Aymen EL Haski](https://www.linkedin.com/in/aymen-el-haski-5492a4208/) Jakom
 - [Amine Essiraj](https://twitter.com/EssirajAmine) Amine Essiraj 
