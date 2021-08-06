@@ -3,7 +3,6 @@
 ![Alt text](https://raw.githubusercontent.com/adnane-X-tebbaa/imgs/master/MH.png)
 
 Awesome List of Moroccan Cyber Security Researchers, Hackers, Bug Hunters (Not Rank Based)
-(Not Rank Based)
 
 
 
