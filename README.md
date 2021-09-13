@@ -35,7 +35,6 @@ Awesome List of Moroccan Cyber Security Researchers, Hackers, Bug Hunters (Not R
 ## Top Moroccan Cyber Security Facebook pages : 
 
 - [Crisis](https://www.facebook.com/Crisi5) :  Community,CTFs,News,Lives,Talks...
-- [Moroccan Hackers](https://www.facebook.com/Moroccan.Hack3rs) :  News,Community...
 - [MadrasaTech](https://www.facebook.com/MadrasaTech) :  News,Community...
 - [The hacker news B'darija magazine](https://www.facebook.com/Th3HackerNewsBdarija) : News,Community...
 
@@ -93,7 +92,6 @@ Awesome List of Moroccan Cyber Security Researchers, Hackers, Bug Hunters (Not R
 - [Erchiqui Azzeddine](https://twitter.com/zertox1) zertox1
 - [C3P0](https://twitter.com/c3p01337) c3p01337
 - [Maher](https://twitter.com/azz_maher) Maher
-- [Abdél Hafid Ait Chikh](https://twitter.com/hafidaitchikh) abdelhafid
 - [Momo Outaadi](https://github.com/m4ll0k) m4ll0k
 - [Amineetabdenour](https://github.com/amine123ait) Mr.Echo
 - [Mohamed Lourch](https://twitter.com/MohamedLourch) igreg
