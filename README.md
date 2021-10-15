@@ -29,6 +29,7 @@ Awesome List of Moroccan Cyber Security Researchers, Hackers, Bug Hunters (Not R
 - https://0u.ma/
 - https://www.yassineaboukir.com/blog/
 - https://y0ungdst.medium.com/
+- https://TebbaaX.com/
 
 
 ## Top Moroccan Cyber Security Facebook pages : 
@@ -45,7 +46,6 @@ Awesome List of Moroccan Cyber Security Researchers, Hackers, Bug Hunters (Not R
 - https://www.twitch.tv/c3p0d4y
 - https://www.twitch.tv/kxikx365
 - https://www.twitch.tv/sicksec
-
 ## List :
 
 - [Souhail Mssassi](https://www.facebook.com/Mssassii) Mssassii
