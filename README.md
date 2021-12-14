@@ -77,7 +77,7 @@ Awesome List of Moroccan Cyber Security Researchers, Hackers, Bug Hunters (Not R
 - [Collin Belmo](https://twitter.com/belmo01) B1M0110
 - [Mahdi ELMrhassel](https://twitter.com/elmyuyu) ElMrhassel
 - [Y0ung](https://twitter.com/Y0ung_MA) _Y0ung
-- [Achraf Boutahr](https://twitter.com/yesiamdollar) yesiamdollar
+- [Achraf Boutahri](https://twitter.com/yesiamdollar) yesiamdollar
 - [El Habtie Soufiane](https://twitter.com/soufianelhabti) mainteemoforfun
 - [Simo Bal-ghaoui](https://www.facebook.com/simo.balghaoui) s1m0x
 - [Ayoub El Araychi](https://twitter.com/Gr4yG) Gr4y_Gh0st
