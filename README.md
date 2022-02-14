@@ -19,7 +19,9 @@ Awesome List of Moroccan Cyber Security Researchers, Pentesters, Bug Hunters (No
 [![Discord](https://img.shields.io/badge/status%20-%F0%9F%94%B4%20up!-brightgreen?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/UxC2JRejZ7)
 [![Discord](https://img.shields.io/badge/status%20-%F0%9F%94%B4%20up!-brightgreen?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vja5zQzJ)
 [![Discord](https://img.shields.io/badge/status%20-%F0%9F%94%B4%20up!-brightgreen?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/T8BS6Prv7v)
-[![Discord](https://img.shields.io/badge/status%20-%F0%9F%94%B4%20up!-brightgreen?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/7hFJDsSzAk)
+[![Discord](https://img.shields.io/badge/status%20-%F0%9F%94%B4%20up!-brightgreen?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://youtu.be/XJhZ3i-HXS0?t=1361)
+
+🚨 Update - (14/02/2022) : due to certain issues "the Hacker News B'Darija" Discord server is now private in order to join you have to fill the following google form that you can find [Here](https://docs.google.com/forms/d/e/1FAIpQLSdXM6-oEZFYm0Y4CYZXsYXEvlsX1D5HWcmRweR7Ws3HClEe2g/viewform) 
 
 ## Blogs:
 
