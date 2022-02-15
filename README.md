@@ -33,6 +33,8 @@ Awesome List of Moroccan Cyber Security Researchers, Pentesters, Bug Hunters (No
 - https://y0ungdst.medium.com/
 - https://www.TebbaaX.com/
 - https://blog.yezz.me
+- https://c3p0d4y.space
+- https://www.thehackernewsbdarija.com
 
 
 ## Top Moroccan Cyber Security Facebook pages : 
@@ -79,6 +81,7 @@ Awesome List of Moroccan Cyber Security Researchers, Pentesters, Bug Hunters (No
 - [Collin Belmo](https://twitter.com/belmo01) B1M0110
 - [Mahdi ELMrhassel](https://twitter.com/elmyuyu) ElMrhassel
 - [Y0ung](https://twitter.com/Y0ung_MA) _Y0ung
+- [G0rchy](https://twitter.com/g0rchy) g0rchy
 - [Achraf Boutahri](https://twitter.com/yesiamdollar) yesiamdollar
 - [El Habtie Soufiane](https://twitter.com/soufianelhabti) mainteemoforfun
 - [Simo Bal-ghaoui](https://www.facebook.com/simo.balghaoui) s1m0x
